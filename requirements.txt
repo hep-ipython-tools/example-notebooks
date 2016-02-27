@@ -1,0 +1,1 @@
+-e git://github.com/hep-ipython-tools/hep-ipython-tools#egg=hep-ipython-tools
